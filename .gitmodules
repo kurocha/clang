@@ -1,0 +1,4 @@
+[submodule "clang-3.3"]
+	path = clang-3.3
+	url = https://github.com/llvm-mirror/clang.git
+	branch = release_33
